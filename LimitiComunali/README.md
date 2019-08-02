@@ -1,6 +1,6 @@
 ## Limiti comunali
 
-Questo file è stato creato da [**Guenter Richter**](https://twitter.com/grichter)
+Questo file è stato creato da [**Guenter Richter**](https://twitter.com/grichter). Grazie!
 
 > Questo Shapefile deriva dai limiti ISTAT Com01012019_g con aggiornamenti dei nuovi comuni per le mappe delle elezioni europee del 2019.
 >
